@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JBaseIt, a.k.a. Nick Mullenniex
+- 👀 I’m interested in cooking, hiking, music, nature, philosophy and countless other subjects.
+- 🌱 I’m currently learning JavaScript, CSS, and HTML through CodeCademy's FullStack Developer course.
+- 💞️ I’m looking to collaborate on web-oriented open-source projects.
+- 📫 You can reach me through the message feature on GitHub, or find me on Discord as Baseit#8991.
